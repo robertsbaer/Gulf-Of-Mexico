@@ -22,7 +22,7 @@ You can install this extension in two ways:
 
 ### 1. From the Chrome Web Store (Recommended)
 
-- Visit the extension page on the Chrome Web Store: [Gulf of Mexico Extension](https://chromewebstore.google.com/detail/gulf-of-mexico/iimjcfobpghafhjkbjflpnlfmfiggegg) <mcreference link="https://chromewebstore.google.com/detail/gulf-of-mexico/iimjcfobpghafhjkbjflpnlfmfiggegg" index="0">0</mcreference>
+- Visit the extension page on the Chrome Web Store: [Gulf of Mexico Extension](https://chromewebstore.google.com/detail/gulf-of-mexico/iimjcfobpghafhjkbjflpnlfmfiggegg)
 - Click "Add to Chrome".
 - The extension will be installed and ready to use.
 
